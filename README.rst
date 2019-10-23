@@ -39,6 +39,8 @@ TODO
 * add tests
 * add templates dir for initial index and README
 * test generating sphinx output
+* generate a dash compatible doc per wheel
+* serve a dash compatible doc url for all docs in current environment
 
 Credits
 -------
