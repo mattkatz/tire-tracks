@@ -7,7 +7,7 @@ from contextlib import contextmanager
 from zipfile import ZipFile
 
 
-class TireTracks():
+class TireTracks:
     def __init__(self, wheel, outdir):
         self.wheelpath = Path(wheel)
         self.outdir = Path(outdir)
